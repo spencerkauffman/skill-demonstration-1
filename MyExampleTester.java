@@ -5,6 +5,6 @@ public class MyExampleTester {
     MyExample myExample = new MyExample();
     @Test
     public void testSum() {
-        assertEquals(5, myExample.sum);
+        assertEquals(4, myExample.sum);
     }
 }
